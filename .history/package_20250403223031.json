@@ -48,11 +48,5 @@
     "3d",
     "design",
     "docs"
-  ],
-  "author": "bodencrouch",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bodencrouch/mcp-panda3d/issues"
-  },
-  "homepage": "https://github.com/bodencrouch/mcp-panda3d#readme"
+  }
 }

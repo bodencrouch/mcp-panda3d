@@ -37,22 +37,5 @@
   },
   "engines": {
     "node": ">=14.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bodencrouch/mcp-panda3d.git"
-  },
-  "keywords": [
-    "panda3d",
-    "mcp",
-    "3d",
-    "design",
-    "docs"
-  ],
-  "author": "bodencrouch",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bodencrouch/mcp-panda3d/issues"
-  },
-  "homepage": "https://github.com/bodencrouch/mcp-panda3d#readme"
+  }
 }
