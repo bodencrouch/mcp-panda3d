@@ -3,3 +3,9 @@ node_modules/
 .env*
 .cursor
 .history
+.claude/
+.cursor/
+.mission/
+.remember/
+AGENTS.md
+CLAUDE.md
